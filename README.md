@@ -1,6 +1,6 @@
 # PDF to Audiobook Converter
 
-<br><br> ![Pdf to Audiobook](/files/image.png)
+<br><br> ![Pdf to Audiobook](/file/image.png)
 
 > This is a simple application that converts PDF files to audio files (MP3)
 > using the VoiceRSS API. The generated audio can be saved to a location of your
@@ -23,7 +23,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone
+   git clone https://github.com/NjauSamuel/python-text-to-speech.git
    cd pdf-to-audiobook
    ```
 2. **Create a .env file in the project root with your VoiceRSS API
